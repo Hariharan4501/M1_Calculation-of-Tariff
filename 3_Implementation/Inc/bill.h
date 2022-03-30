@@ -1,13 +1,3 @@
-/**
- * @file bill.h
- * @author your name
- * @brief 
- * @version 0.1
- * @date 2021-09-8
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 #ifndef __BILL_H__
 #define __BILL_H__
 #include <stdio.h>
