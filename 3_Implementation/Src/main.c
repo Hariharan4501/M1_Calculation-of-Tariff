@@ -1,7 +1,6 @@
 #include "bill.h"
 int main()
 {
-* Inialize  units,previous and current readings *
     int units;
     int prev_reading, cur_reading;
     float Sur_Charges, customer_charges, per_unit_charge, Energy_charges, fixed_charges, ED_charges;
@@ -21,7 +20,7 @@ int main()
     getchar();
     scanf("%c", &group);
     units = cur_reading - prev_reading;
-    //printf("%d\n", units);
+    printf("%d\n", units);
     if (group == 'A')
     {
         if (units > 0 || units < 50)
