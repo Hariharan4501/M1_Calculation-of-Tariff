@@ -1,12 +1,14 @@
+* define headerfile bill.h *
 #include "bill.h"
 int main()
 {
+* Initialize units,previous reading,and current reading *
     int units;
     int prev_reading, cur_reading;
     float Sur_Charges, customer_charges, per_unit_charge, Energy_charges, fixed_charges, ED_charges;
     char group;
     double Bill_amount;
-    //scanf("%d", &units);
+    scanf("%d", &units);
     printf("\t\t\t\t\t\tWelcome to Tariff calculation\n\n\n");
     printf("Enter Previous reading\n");
     scanf("%d", &prev_reading);
@@ -133,5 +135,5 @@ int main()
     }
     else
         return 1;
-    return 0;
+      return 0;
 }
