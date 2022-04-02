@@ -1,6 +1,5 @@
-# M1_March_2022
-Naming Convention:"M1_ProjectGoal"
-# stepin_CalculationOfTariff
+# M1_Calculation-of-Tariff
+
 
 ![Code inspector CodeQuality](https://api.codiga.io/project/32442/score/svg)
 
