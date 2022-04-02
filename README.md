@@ -10,7 +10,8 @@ Naming Convention:"M1_ProjectGoal"
 
 <br>
 
-[![Git Inspector](https://github.com/Aishma19/stepin_Tariffcalculation/actions/workflows/git_inspector.yml)
+[![Git Inspector](https://github.com/M1_Calculation-of-Tariff/stepin_Tariffcalculation/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Calculation-of-Tariff/stepin_Tariffcalculation/actions/workflows/git_inspector.yml)
+
 
 
 
