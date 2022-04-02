@@ -1,4 +1,4 @@
-# M1_Calculation-of-Tariff
+# M1_Calculation_of_Tariff
 **#Introduction**
 The amount of money framed by the supplier for the supply of electrical energy to various types of consumers is known as "electrical tariff".The tariff covers the total cost of producing and supplying electrical energy and in addition to reasonable cost.
 The actual tariff that the consumer pay depends on the consumption of the eletricity. The industrial consumers pay more tariff because they use more power for long times than the domestic consumers. The electricity tariff depends on the following factors : 1) Type of load, Time at which load is required, The amount of energy used.
