@@ -23,3 +23,15 @@
 |LP07| The energy charges will get | Pass | Requirement |
 |LP08| The energy charges will be added to customer charges ,ED,Fixed charges | Pass | Requirements |
 |LP09| Bill amounts will get as output | Exits from loop | Pass | Requirement |
+## USAGE UNITY TEST FRAMEWORK:
+The Unity Test Framework (UTF) enables Unity users to test their code in both Edit Mode and Play Mode, and also on target platforms such as Standalone, Android, iOS, etc.
+UTF uses a Unity integration of NUnit library, which is an open-source unit testing library for .Net languages.
+It is possible to extend the Unity Test Framework (UTF) in many ways, for custom workflows for your projects and for other packages to build on top of UTF.
+
+
+## Best Practices
+
+ - [x] Checked all the possibilities of output
+ - [x] Mentioned all the inputs for better understanding
+ - [x] Presented in tabular form for easy understanding
+ - [x] Both High level and low level Test plans are shown
