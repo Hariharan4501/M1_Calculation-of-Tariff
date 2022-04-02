@@ -34,7 +34,7 @@ The total bill of consumer has these parts namely fixed charge, rate of charge, 
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-8845475|Hariharan K|Calculation of Tariff|    2    | 2             | 8           | 8
+8845475|Hariharan K|Calculation of Tariff|    1    | 1             | 7           | 7
 ## Challenges Faced and How Was It Overcome
 
 1. Applying unit concept was quite challenging.
