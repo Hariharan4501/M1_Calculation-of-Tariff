@@ -13,7 +13,7 @@ The total bill of consumer has these parts namely fixed charge, rate of charge, 
 
 <br>
 
-[![Git Inspector](https://github.com/Hariharan4501/M1_Calculation-of-Tariff/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Hariharan4501/M1_Calculation-of-Tariff/actions/workflows/git_inspector.yml)
+[![Git Inspector](https://github.com/Hariharan4501/M1_Calculation_of_Tariff/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Hariharan4501/M1_Calculation_of_Tariff/actions/workflows/git_inspector.yml)
 
 
 
